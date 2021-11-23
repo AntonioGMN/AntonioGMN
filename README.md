@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:antonio.garciamn@gmail.com)
 
 <h1>Ola, meu nome é Antônio e atualmente estou apaxonado pelo mundo da programação, menos com toda raiva que passo as vezes</h1>
 
