@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<h1>Ola, meu nome é Antônio e atualmente estou apaxonado pelo mundo da programação, menos com toda raiva que passo as vezes</h1>
+
 <!--
 **AntonioGMN/AntonioGMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
