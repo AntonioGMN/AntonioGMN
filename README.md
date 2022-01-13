@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:antonio.garciamn@gmail.com)
 
-<h1>Ola, meu nome é Antônio e atualmente estou apaxonado pelo mundo da programação, menos com toda raiva que passo as vezes</h1>
+<h1>Ola, meu nome é Antônio e atualmente estou apaixonado pelo mundo da programação, menos com toda raiva que passo as vezes</h1>
 
 <!--
 **AntonioGMN/AntonioGMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
