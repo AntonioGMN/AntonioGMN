@@ -55,6 +55,10 @@ Each day is a constant learning process, within all our working time it is possi
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGMN&layout=compact&langs_count=7&theme=blue"/>
 </div>
   
+  ## Social Links
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-garcia/)
+  
   <!--
   [![fMagVen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fMagVen&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![fMagVen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fMagVen&layout=compact&langs_count=6&theme=blue-green&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
