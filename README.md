@@ -1,6 +1,9 @@
-### Hi there 👋
+### 👋 Hi there, I'm António Garcia
 
-<h1>Ola, meu nome é Antônio e atualmente estou apaixonado pelo mundo da programação, </h1>
+<h1></h1>
+
+### About Me
+Each day is a constant learning process, within all our working time it is possible to innovate, create and develop solutions that are actually useful to other people, and even sometimes inspire them to achieve their goals with technology. I get a lot happy and grateful to be part of this world full of challenges and learning!
 
 - :partying_face: 22 years old
 - 🔭 Born and living in Brazil
@@ -8,6 +11,8 @@
 - 💬 Ask me about... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love pudim
+
+<h1></h1>
 
 ### Front-end:
 
